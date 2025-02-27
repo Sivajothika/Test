@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url(cake.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.p{
+    color: white;
+    font-size: 150%;
+    font-weight: bold;
+
+}
+.par{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   padding-top: 20px;
+}
+.ul{
+    display: flex;
+    font-weight: bold;
+   color: white;
+font-size: 150%;}
+
+.p{
+    font-family: "Pacifico", serif;
+}
+.s{
+    display: flex;
+    color: white;
+
+}
+
+
+
+li{
+    margin-right: 30px;
+    text-decoration: none;
+    display: flex;
+    
+
+}
+.b{
+    border-radius: 20px;
+    height: 35px;
+    width: 200px;
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    border: none;
+   
+}
+.b:hover{
+    color: antiquewhite;
+    background-color: rgb(81, 226, 226);
+}
+li:hover{
+    
+    color: aqua;
+    
+}
+.main{
+    padding-top: 100px;
+    padding-left: 60px;
+}
+.tit{
+    font-size: 300%;
+    font-family: "Pacifico", serif;}
+.para{
+    height: 150px;
+    width: 700px;
+    color: rgb(247, 241, 241);
+    font-size: 150%;
+
+}
+.btn{
+    height: 50px;
+    width: 200px; ;
+    border-radius: 25px;
+    border: none;
+
+}
+.btn:hover{
+    background-color:aqua ;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+    height: auto;
+    width: 500px;
+    border-radius: 20px;
+}
+.on{
+    border-radius: 50%;
+}
+.ee{
+    display: flex;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+   
+}
+.part{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7%;
+    
+
+}
+.on,.two{
+
+    margin-top: 20px;
+
+}
+.tw,.tws{
+    font-size: 200%;
+
+}
+.butt{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 25px;
+   
+}
+.but{
+    height: 40px;
+    width: 200px; 
+    border-radius: 20px;
+    border: none;
+    margin-top: 25px;
+   
+}
+.on{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border:4px solid ;
+}
+.name{
+margin-top: 20px;
+}
+.m{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size:xx-large;
+    font-style: italic;
+    margin-top: 100px;
+
+}
+.m1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: large;  
+    cursor: pointer;
+}
+.menu{
+    height: 450px;
+    width: 450px;
+    background-color: violet;
+    margin-top: 5%;
+    border-radius: 45px;
+    margin-left: 20px;
+    
+}
+.icon{
+    display: flex;
+    padding-top: 70px;
+   justify-content: space-around;
+}
+.fire{
+    height: 200px;
+    width: 450px;
+    
+    border-radius: 20% 20% 0% 20%;
+
+}
+.te{
+    text-align: center;
+    margin-top: 20px;
+}
+.to{
+    text-align: center;
+    margin-top: 20px;
+}
+.ic{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    justify-content:center;
+
+}
+.sub{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-around;
+}
+.view{
+    background-color: orange;
+    height: 45px;
+    width: 300px;
+    cursor: pointer;
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+border: none;
+border-radius: 20px;
+
+
+}
+.v{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.back{
+    height: 400ox;
+    width: 1600px;
+    background-color: black;
+    display: flex;
+
+}
+.pho{
+    height: 600px;
+    width: 600px;
+
+}
+.lor{
+    height: 150px;
+    width: 700px;
+    color: rgb(247, 241, 241);
+    font-size: 150%;
+    margin-left: 50px;
+}
+.bhe{
+    color: antiquewhite;
+    text-align: center;
+    font-family: "Pacifico", serif;
+    font-size: 500%;
+    padding-top: 70px;
+    margin-right: 200px;
+
+    
+}
+.co{
+    background-color: orange;
+    height: 45px;
+    width: 200px;
+    cursor: pointer;
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+border: none;
+border-radius: 20px;
+}
+.t{
+    padding-top: 50px;
+    font-style: italic;
+    text-align: center;
+}
+.say{
+    display: flex;
+    justify-content: center;
+    font-size:large;
+    font-style: italic;
+    margin-top: 100px;
+
+}
+.end{
+    background-color: skyblue;
+    height: 300px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.pg{
+    height: 70px;
+    width: 500px;
+    color: black(247, 241, 241);
+    font-size: 100%;
+}
+.ct,.cw1,.oh{
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+.pg,.cw1,.ev,.tm{
+    text-align: center;
+}
+.s1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+
+}
+#one,#two,#three,#four,#five{
+    margin-bottom: 10px;
+}
